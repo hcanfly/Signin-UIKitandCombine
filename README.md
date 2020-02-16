@@ -11,4 +11,4 @@ Basic Swift sample app for collecting user info for signup, create account or th
 
 ## License
 
-Solitaire is licensed under the MIT License. See the LICENSE file for more information, but basically this is sample code and you can do whatever you want with it.
+Signin-UIKitandCombine is licensed under the MIT License. See the LICENSE file for more information, but basically this is sample code and you can do whatever you want with it.
