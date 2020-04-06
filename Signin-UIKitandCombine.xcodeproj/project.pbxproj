@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E956077243BAEF900EF60D9 /* UserInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E956076243BAEF900EF60D9 /* UserInfo.swift */; };
 		3EE6E8C823F9B97500A76242 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE6E8C723F9B97500A76242 /* AppDelegate.swift */; };
 		3EE6E8CA23F9B97500A76242 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE6E8C923F9B97500A76242 /* SceneDelegate.swift */; };
 		3EE6E8CC23F9B97500A76242 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE6E8CB23F9B97500A76242 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3E956076243BAEF900EF60D9 /* UserInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfo.swift; sourceTree = "<group>"; };
 		3EE6E8C423F9B97500A76242 /* Signin-UIKitandCombine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Signin-UIKitandCombine.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EE6E8C723F9B97500A76242 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3EE6E8C923F9B97500A76242 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				3EE6E8D023F9B97500A76242 /* Assets.xcassets */,
 				3EE6E8D223F9B97500A76242 /* LaunchScreen.storyboard */,
 				3EE6E8D523F9B97500A76242 /* Info.plist */,
+				3E956076243BAEF900EF60D9 /* UserInfo.swift */,
 			);
 			path = "Signin-UIKitandCombine";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E956077243BAEF900EF60D9 /* UserInfo.swift in Sources */,
 				3EE6E8CC23F9B97500A76242 /* ViewController.swift in Sources */,
 				3EE6E8C823F9B97500A76242 /* AppDelegate.swift in Sources */,
 				3EE6E8CA23F9B97500A76242 /* SceneDelegate.swift in Sources */,
@@ -285,7 +289,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5EP5YM7PC7;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Signin-UIKitandCombine/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -303,7 +307,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5EP5YM7PC7;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Signin-UIKitandCombine/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
